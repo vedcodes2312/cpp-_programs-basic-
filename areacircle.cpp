@@ -11,6 +11,6 @@ int main()
     cout <<"the area of circle with radius "<<radius<<" is "<<area<<endl;
      cout <<"the circumference of circle with radius "<<radius<<" is "<<circumference;
 
-
+return 0;
 
 }
