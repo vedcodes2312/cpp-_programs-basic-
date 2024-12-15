@@ -25,3 +25,6 @@ int main()
     return 0;
     
 }
+
+/*  Lambda functions in C++ are a convenient way to define anonymous functions directly in your code. 
+    They're quite handy for short, throwaway functions that you don't need to name.   */
